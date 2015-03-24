@@ -12,6 +12,7 @@ repositories {
     mavenCentral()
 }
 
+mainClassName = "io.advantageous.qbit.example.Application"
 
 dependencies {
     compile group: 'io.advantageous.qbit', name: 'qbit-servlet', version: '0.7.2'

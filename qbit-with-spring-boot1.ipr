@@ -42,6 +42,7 @@
         <entry key="$PROJECT_DIR$/../inproc-microservice-qbit-old" value="2848638876000" />
         <entry key="$PROJECT_DIR$/../qbit" value="11410132906000" />
         <entry key="$PROJECT_DIR$" value="2854358008000" />
+        <entry key="$PROJECT_DIR$/../qbit-with-spring-boot1" value="2854358008000" />
         <entry key="$PROJECT_DIR$/../qbit-worker-callbacks" value="2850317898000" />
         <entry key="$PROJECT_DIR$/../simpel-rest-server" value="2847288908000" />
         <entry key="$PROJECT_DIR$/../simple-rest-server" value="2849944096000" />
@@ -200,7 +201,7 @@
     <list size="0" />
   </component>
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="" />
+    <mapping directory="" vcs="Git" />
   </component>
   <component name="libraryTable">
     <library name="Gradle: aopalliance:aopalliance:1.0">
