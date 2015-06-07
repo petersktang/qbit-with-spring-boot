@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfe43715-0172-48c9-8ec5-2811b6cad35f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/qbit-with-spring-boot-1.0.jar" afterPath="$PROJECT_DIR$/build/libs/qbit-with-spring-boot-1.0.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/DispatcherServlet.java" afterPath="$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/DispatcherServlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qbit-with-spring-boot.iml" afterPath="$PROJECT_DIR$/qbit-with-spring-boot.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qbit-with-spring-boot.ipr" afterPath="$PROJECT_DIR$/qbit-with-spring-boot.ipr" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/qbit-with-spring-boot.iws" afterPath="$PROJECT_DIR$/qbit-with-spring-boot.iws" />
@@ -50,8 +47,8 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="495">
+              <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -60,8 +57,8 @@
       <file leaf-file-name="Application.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5291411" vertical-offset="0" max-vertical-offset="660">
-              <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.5" vertical-offset="0" max-vertical-offset="660">
+              <caret line="81" column="5" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -77,10 +74,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="default.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/default.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="HelloService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/HelloService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="300">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="300">
               <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
               <folding />
             </state>
@@ -90,8 +97,8 @@
       <file leaf-file-name="DispatcherServlet.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/DispatcherServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="870">
-              <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+              <caret line="64" column="47" selection-start-line="64" selection-start-column="47" selection-end-line="64" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -250,7 +257,7 @@
         <entry key="$PROJECT_DIR$/../inproc-microservice-qbit" value="2850936640000" />
         <entry key="$PROJECT_DIR$/../inproc-microservice-qbit-old" value="2848638876000" />
         <entry key="$PROJECT_DIR$/../qbit" value="11410132906000" />
-        <entry key="$PROJECT_DIR$" value="2854361239000" />
+        <entry key="$PROJECT_DIR$" value="2860887063000" />
         <entry key="$PROJECT_DIR$/../qbit-with-spring-boot1" value="2854358008000" />
         <entry key="$PROJECT_DIR$/../qbit-worker-callbacks" value="2850317898000" />
         <entry key="$PROJECT_DIR$/../simpel-rest-server" value="2847288908000" />
@@ -286,20 +293,22 @@
                       <ExternalModuleBuildClasspathPojo>
                         <option name="entries">
                           <list>
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-servlet/0.7.2/39d35318db75e9e3935c779942b8dce126b4a376/qbit-servlet-0.7.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-servlet/0.7.2/aac83216b5c2bcfa7c901fe5ff66849f2c8cfe58/qbit-servlet-0.7.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-servlet/0.8.6/f79f625430d1345dc8548eabdddd3e7a5ef3091/qbit-servlet-0.8.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-servlet/0.8.6/cf53f53cb2d3219f379d7a46f87a4f64b9fcc9c1/qbit-servlet-0.8.6.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/a00123f261762a7c5e0ec916a2c7c8298d29c400/javax.inject-1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/1.2.1.RELEASE/da30e2bddc792358a71dbc98db497a46058cb99c/spring-boot-starter-web-1.2.1.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter-web/1.2.1.RELEASE/23ff0103b230852dd27b51cb60bf9dd38766145c/spring-boot-starter-web-1.2.1.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.3.0.M2/386d99a07bf05136df4fe65034d0d0f25fa7a96f/jetty-webapp-9.3.0.M2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.3.0.M2/da656fc18b0ecf9901e71752bc2cd0ed687dc7cf/jetty-webapp-9.3.0.M2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.3.0.RC1/753e2c4b12f2c54d87fd8d86f591d86817119862/jetty-webapp-9.3.0.RC1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-webapp/9.3.0.RC1/4cc42d733b872e3fb1062794a76064a850c9d343/jetty-webapp-9.3.0.RC1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-jsp/9.3.0.M1/ce04f285f5b0309d6678a016f8ccd066834f3e29/jetty-jsp-9.3.0.M1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-jsp/9.3.0.M1/7bd690af7de1119bb0329d6f9decec7ee857f752/jetty-jsp-9.3.0.M1.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-boon/0.7.2/49533b11c9b0ba575d0118ebe3b948e067f44b17/qbit-boon-0.7.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-boon/0.7.2/efbdb62f748d53289ce5158b8e59b33b9eee0263/qbit-boon-0.7.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-core/0.7.2/932e1752d91470862ab271de2bb827ca00c123cc/qbit-core-0.7.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-core/0.7.2/9b5570a048808e860ac75f97252b4f365a86bee8/qbit-core-0.7.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-core/0.8.6/1f522fc7c058b3ebbbc7aca8e89b7f39e0c83ecf/qbit-core-0.8.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-core/0.8.6/239efc72fdbc2c67d777cd8ca8bec3604063f57e/qbit-core-0.8.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/58697792617f38bf86d8e26bc004aac505e516a9/slf4j-api-1.7.12-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/8e20852d05222dc286bf1c71d78d0531e177c317/slf4j-api-1.7.12.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-boon/0.8.6/aeebf96e872603be7f9fccb1e8481133ee2fc7b0/qbit-boon-0.8.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/qbit-boon/0.8.6/89c24733362299e2d126e4e7e8fbe17a5bbbda4b/qbit-boon-0.8.6.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/ab3976d4574c48d22dc1abf6a9e8bd0fdf928223/javax.servlet-api-3.1.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet/javax.servlet-api/3.1.0/3cd63d075497751784b2fa84be59432f4905bf7c/javax.servlet-api-3.1.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-starter/1.2.1.RELEASE/8c1029371c409a9f5ceb58e1b8e021c22c708abe/spring-boot-starter-1.2.1.RELEASE-sources.jar" />
@@ -314,10 +323,10 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-web/4.1.4.RELEASE/7404de727a6b07634b55e9b7788e89cb76785932/spring-web-4.1.4.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.1.4.RELEASE/5d4733e6f5fb51f11d19aca606b796b1e2bd2fb1/spring-webmvc-4.1.4.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-webmvc/4.1.4.RELEASE/77c2be19c80bc4b73c7edcafaff6c3d1babea103/spring-webmvc-4.1.4.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.3.0.M2/5647bed40abfd67fbff327c7ae49e0187a9101fd/jetty-xml-9.3.0.M2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.3.0.M2/70d0b6d94f98334468bfb0c2f393bd9a3d53ea3f/jetty-xml-9.3.0.M2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.3.0.M2/a54624ba07271684720f2c2185e17ff930b0c57c/jetty-servlet-9.3.0.M2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.3.0.M2/c55e253f5c8b9e51258de31d7d5e7c954d5b2c66/jetty-servlet-9.3.0.M2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.3.0.RC1/a5bd2ec172a63990141b1c44f0ba9a438c3bf1c1/jetty-xml-9.3.0.RC1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-xml/9.3.0.RC1/7c6372fd56fdaf359bf7c3e76f8ac94f2336a77e/jetty-xml-9.3.0.RC1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.3.0.RC1/44d9609b9d87a6912c2174ed2ca43e381a7a6184/jetty-servlet-9.3.0.RC1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-servlet/9.3.0.RC1/44476e101484c488f3ec2f31a82dfe19e6e5b0c/jetty-servlet-9.3.0.RC1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.toolchain/jetty-schemas/3.1.M0/e15af2e59c6415e2d722f174aa579fc02c653252/jetty-schemas-3.1.M0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.toolchain/jetty-schemas/3.1.M0/6179bafb6ed2eb029862356df6713078c7874f85/jetty-schemas-3.1.M0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.servlet.jsp/javax.servlet.jsp-api/2.3.1/5aa9e2bf86d7a7d56cc24690b87ff29c1a1d2245/javax.servlet.jsp-api-2.3.1-sources.jar" />
@@ -330,10 +339,10 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish.web/javax.servlet.jsp.jstl/1.2.2/5b2e83ef42b4eef0a7e41d43bb1d4b835f59ac7a/javax.servlet.jsp.jstl-1.2.2.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/org.eclipse.jdt.core/3.8.2.v20130121/add6b2dc7e55094f98db1c8b0decd91e2cbbd337/org.eclipse.jdt.core-3.8.2.v20130121-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty.orbit/org.eclipse.jdt.core/3.8.2.v20130121/ebb04771ae21dec8682e4153e97404d9933a9c13/org.eclipse.jdt.core-3.8.2.v20130121.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/58697792617f38bf86d8e26bc004aac505e516a9/slf4j-api-1.7.12-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.12/8e20852d05222dc286bf1c71d78d0531e177c317/slf4j-api-1.7.12.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/boon/0.7.2/7647a71572f6616bc77c332a15eee4624288da2d/boon-0.7.2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.qbit/boon/0.7.2/4c925da5eddac7382427887fae628c193e13ef62/boon-0.7.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-json/0.5.5/1eaf110e6b5d6458f3b0a95d492ac9143c9bcc85/boon-json-0.5.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-json/0.5.5/3042f3d6937c59cae3233a4aee4da318554af561/boon-json-0.5.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-reflekt/0.5.5/d68d2458d1b4a1103de10f8160942d15da61e768/boon-reflekt-0.5.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.advantageous.boon/boon-reflekt/0.5.5/3ae09d0ad727ee0c36b3c87e4a8885e89afceee9/boon-reflekt-0.5.5.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.1.RELEASE/f38df98f8dd5794f78483dafb8d637939042507d/spring-boot-1.2.1.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.1.RELEASE/efe81809343f4fca576ea872eb6a269599ebb1d0/spring-boot-1.2.1.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-autoconfigure/1.2.1.RELEASE/5b75ae3cdfea345d10cc383017d3494f6323e596/spring-boot-autoconfigure-1.2.1.RELEASE-sources.jar" />
@@ -360,10 +369,10 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/4.1.4.RELEASE/5c66d0962e89ee577627a526b6b299a5337072be/spring-context-4.1.4.RELEASE.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.1.4.RELEASE/8438d555fbfe425e54b1fc688af71df6212d2b9b/spring-expression-4.1.4.RELEASE-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-expression/4.1.4.RELEASE/89109bc913900ceff3107ad66edb60d1acb3aed2/spring-expression-4.1.4.RELEASE.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.3.0.M2/72bec9abecae0faab1875e71a5c20bfd1d66e42d/jetty-util-9.3.0.M2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.3.0.M2/50fac5a2ec6cfb0e11f69b5fe57a36c9495e7e8/jetty-util-9.3.0.M2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.3.0.M2/19d824cb185687396040af50f9c7b9873da978d7/jetty-security-9.3.0.M2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.3.0.M2/22761069ed956519e4b82af2cf8072c4104f0acc/jetty-security-9.3.0.M2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.3.0.RC1/7a1c76423e36005e9393a43a894a5c614b55b936/jetty-util-9.3.0.RC1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-util/9.3.0.RC1/899a7266577cef4a77fe8d9e1d6d1e30ee989bb8/jetty-util-9.3.0.RC1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.3.0.RC1/12212c470fd580eb2283dcabcbe9a12af8d7c1ef/jetty-security-9.3.0.RC1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-security/9.3.0.RC1/beec38920879e07e43c2ca6cccb91d03907bf422/jetty-security-9.3.0.RC1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.8/40edefae16a3421290778894ef3a71aba0a5a224/jcl-over-slf4j-1.7.8-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jcl-over-slf4j/1.7.8/c255c29d154eb7d6f0e34f9e04e653b00019cd42/jcl-over-slf4j-1.7.8.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.8/7cefca95a750d5ae3648159a175a76f2b9583306/jul-to-slf4j-1.7.8-sources.jar" />
@@ -376,16 +385,16 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/aopalliance/aopalliance/1.0/235ba8b489512805ac13a8f9ea77a1ca5ebe3e8/aopalliance-1.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.3.0.M2/3c56beebed0a275e9c32fe7acca40e0146aa5051/jetty-server-9.3.0.M2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.3.0.M2/cab32382de78119fa50ce0f01e92ebd02f9652/jetty-server-9.3.0.M2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.3.0.RC1/84edb16589f308bbc4fde9c763da6b2f97549786/jetty-server-9.3.0.RC1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-server/9.3.0.RC1/da68dcfb766d2255080416f4fca4b497d3b84ced/jetty-server-9.3.0.RC1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.2/502e1c764542fe747896c1dc04f023acfe0e5cbc/logback-core-1.1.2-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/ch.qos.logback/logback-core/1.1.2/2d23694879c2c12f125dac5076bdfd5d771cc4cb/logback-core-1.1.2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.3.0.M2/b9531afffebd872ed9ddce0e5e3881c3d4659a53/jetty-http-9.3.0.M2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.3.0.M2/dbdd997e93feb6f4ff649fd254733f8adf128e9c/jetty-http-9.3.0.M2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.3.0.M2/3491d161e5c79cd1e643f9c65355e071e22eeee1/jetty-io-9.3.0.M2-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.3.0.M2/626fd07d21304e2a48b4743e5fe5ff788a379342/jetty-io-9.3.0.M2.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.el/3.0.1-b05/d38be222bc7343f85523d2f7c49021638ba20325/javax.el-3.0.1-b05-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.el/3.0.1-b05/e2636f8692ca777408892ba24300ad8645543d84/javax.el-3.0.1-b05.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.3.0.RC1/fff9bf2d53f343679e5095a79004d743141225da/jetty-http-9.3.0.RC1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-http/9.3.0.RC1/5205cfdb0e30ea3aa59f8a22540c1d1b70fcf250/jetty-http-9.3.0.RC1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.3.0.RC1/6376d68ff25b1e5c0ef7e30c821ae625a5534d0/jetty-io-9.3.0.RC1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.eclipse.jetty/jetty-io/9.3.0.RC1/b5dab07207969753eae30d2c4370107e0211d3b6/jetty-io-9.3.0.RC1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.el/3.0.1-b08/303fcd8c9ce98ccb708a20aaafb2ea1e8ef0b254/javax.el-3.0.1-b08-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.glassfish/javax.el/3.0.1-b08/8fa39d3901fc6ec8c0fff4ad4e48c26c4911c422/javax.el-3.0.1-b08.jar" />
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$" />
@@ -497,10 +506,18 @@
       </map>
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/DispatcherServlet.java" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
+    <option name="x" value="105" />
+    <option name="y" value="47" />
     <option name="width" value="1920" />
-    <option name="height" value="1106" />
+    <option name="height" value="1117" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -607,8 +624,8 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -825,7 +842,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1920" height="1106" extended-state="0" />
+    <frame x="105" y="47" width="1920" height="1117" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -847,7 +864,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24973376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32938856" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3287805" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -891,16 +908,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="495">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="660">
-          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="660">
+          <caret line="87" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="103" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -913,18 +930,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/default.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/HelloService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="120" max-vertical-offset="300">
-          <caret line="61" column="13" selection-start-line="61" selection-start-column="13" selection-end-line="61" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
+          <caret line="69" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/DispatcherServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="870">
-          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="750">
+          <caret line="53" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -939,25 +964,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/Application.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="660">
-          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="495">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.1.RELEASE/f38df98f8dd5794f78483dafb8d637939042507d/spring-boot-1.2.1.RELEASE-sources.jar!/org/springframework/boot/context/web/SpringBootServletInitializer.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="709" max-vertical-offset="1695">
-          <caret line="107" column="32" selection-start-line="107" selection-start-column="32" selection-end-line="107" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.4.RELEASE/810ad0d4bed3289a8866bbeddc15dda8bfcecaa4/spring-core-4.1.4.RELEASE-sources.jar!/org/springframework/core/env/Environment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="1545">
-          <caret line="30" column="88" selection-start-line="30" selection-start-column="88" selection-end-line="30" selection-end-column="88" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -965,85 +983,6 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/default.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/DispatcherServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="870">
-          <caret line="59" column="0" selection-start-line="59" selection-start-column="0" selection-end-line="59" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/HelloService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="300">
-          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/qbit-with-spring-boot.iws">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11145">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="495">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.1.4.RELEASE/810ad0d4bed3289a8866bbeddc15dda8bfcecaa4/spring-core-4.1.4.RELEASE-sources.jar!/org/springframework/core/env/Environment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1545">
-          <caret line="30" column="88" selection-start-line="30" selection-start-column="88" selection-end-line="30" selection-end-column="88" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot/1.2.1.RELEASE/f38df98f8dd5794f78483dafb8d637939042507d/spring-boot-1.2.1.RELEASE-sources.jar!/org/springframework/boot/context/web/SpringBootServletInitializer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="709" max-vertical-offset="1695">
-          <caret line="107" column="32" selection-start-line="107" selection-start-column="32" selection-end-line="107" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/default.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/qbit-with-spring-boot.iws">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="16905">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="988">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
@@ -1057,36 +996,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="652">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/DispatcherServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="183" max-vertical-offset="870">
-          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="855">
+          <caret line="64" column="47" selection-start-line="64" selection-start-column="47" selection-end-line="64" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="120">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/io/advantageous/qbit/example/Application.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5291411" vertical-offset="0" max-vertical-offset="660">
-          <caret line="82" column="0" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.5" vertical-offset="0" max-vertical-offset="660">
+          <caret line="81" column="5" selection-start-line="81" selection-start-column="5" selection-end-line="81" selection-end-column="5" />
           <folding />
         </state>
       </provider>

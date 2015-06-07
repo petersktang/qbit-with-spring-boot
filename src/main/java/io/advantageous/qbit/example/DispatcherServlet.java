@@ -24,14 +24,13 @@
 package io.advantageous.qbit.example;
 
 import io.advantageous.qbit.http.HttpTransport;
-import io.advantageous.qbit.server.ServiceServer;
+import io.advantageous.qbit.server.ServiceEndpointServer;
 import io.advantageous.qbit.servlet.QBitHttpServlet;
-
 import org.springframework.beans.factory.annotation.Autowired;
 
 import javax.servlet.ServletConfig;
 
-import static io.advantageous.qbit.server.ServiceServerBuilder.serviceServerBuilder;
+import static io.advantageous.qbit.server.EndpointServerBuilder.endpointServerBuilder;
 
 /**
  * @author Rick Hightower
@@ -47,7 +46,7 @@ public class DispatcherServlet extends QBitHttpServlet {
     //Hit this at http://localhost:8080/services/myapp/helloservice/hello
 
 
-    private ServiceServer serviceServer;
+    private ServiceEndpointServer serviceServer;
 
     public DispatcherServlet() {
 
@@ -63,7 +62,7 @@ public class DispatcherServlet extends QBitHttpServlet {
                                   final ServletConfig servletConfig) {
 
 
-        serviceServer = serviceServerBuilder().setHttpTransport(httpTransport)
+        serviceServer = endpointServerBuilder().setHttpTransport(httpTransport)
                 .setUri(SERVICES_API_PROXY_URI_PREAMBLE)
                 .build().initServices(helloService).startServer();
 
